@@ -2,6 +2,10 @@
 
 Extensão para traduzir textos selecionados instantaneamente no navegador.
 
+Veja exemplo:
+
+![alt text](image.png)
+
 ## 📋 Arquivos Necessários
 
 Crie uma pasta com os seguintes arquivos:
@@ -108,22 +112,5 @@ Você precisa criar 3 ícones com as seguintes dimensões:
 
 - Recarregue a página (F5)
 - Verifique se selecionou texto suficiente (mínimo 1 caractere)
-
-## 📝 Notas Técnicas
-
-- Usa Manifest V3 (mais recente)
-- API gratuita do Google Translate
-- Armazena configurações no chrome.storage
-- Detecção inteligente de idiomas por caracteres especiais
-
-## 🎯 Melhorias Futuras
-
-- [ ] Histórico de traduções
-- [ ] Atalhos de teclado
-- [ ] Mais idiomas
-- [ ] Pronúncia de áudio
-- [ ] Modo escuro
-
----
 
 **Desenvolvido com ❤️ usando JavaScript puro**
